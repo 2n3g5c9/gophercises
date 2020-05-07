@@ -14,6 +14,8 @@
 
 [02 - URL Shortener](https://github.com/2n3g5c9/gophercises/tree/master/urlshort)
 
+[03 - Choose Your Own Adventure](https://github.com/2n3g5c9/gophercises/tree/master/cyoa)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
