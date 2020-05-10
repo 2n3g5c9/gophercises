@@ -16,6 +16,8 @@
 
 [03 - Choose Your Own Adventure](https://github.com/2n3g5c9/gophercises/tree/master/cyoa)
 
+[04 - HTML Link Parser](https://github.com/2n3g5c9/gophercises/tree/master/link)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
