@@ -18,6 +18,8 @@
 
 [04 - HTML Link Parser](https://github.com/2n3g5c9/gophercises/tree/master/link)
 
+[05 - Sitemap Builder](https://github.com/2n3g5c9/gophercises/tree/master/sitemap)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
