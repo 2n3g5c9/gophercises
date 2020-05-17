@@ -20,6 +20,8 @@
 
 [05 - Sitemap Builder](https://github.com/2n3g5c9/gophercises/tree/master/sitemap)
 
+[06 - Hacker Rank Problem](https://github.com/2n3g5c9/gophercises/tree/master/hr1)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
