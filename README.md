@@ -22,6 +22,8 @@
 
 [06 - Hacker Rank Problem](https://github.com/2n3g5c9/gophercises/tree/master/hr1)
 
+[07 - CLI Task Manager](https://github.com/2n3g5c9/gophercises/tree/master/task)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
