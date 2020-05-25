@@ -24,6 +24,8 @@
 
 [07 - CLI Task Manager](https://github.com/2n3g5c9/gophercises/tree/master/task)
 
+[08 - Phone Number Normalizer](https://github.com/2n3g5c9/gophercises/tree/master/phone)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
