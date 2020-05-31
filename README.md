@@ -26,6 +26,8 @@
 
 [08 - Phone Number Normalizer](https://github.com/2n3g5c9/gophercises/tree/master/phone)
 
+[09 - Deck of Cards](https://github.com/2n3g5c9/gophercises/tree/master/deck)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
